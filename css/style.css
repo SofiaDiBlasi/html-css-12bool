@@ -1,0 +1,22 @@
+.container {
+    margin-bottom: 3rem;
+}
+
+[class*="col-"] {
+    background-color: #006cfa;
+}
+
+[class*="col-offset"] {
+    background-color: #006cfa;
+}
+
+.box {
+    color: white;
+}
+
+.nested {
+    background-color: #00e165;
+    border: 1px solid #006cfa;
+    color: white;
+}
+
